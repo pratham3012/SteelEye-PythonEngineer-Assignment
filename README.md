@@ -13,3 +13,5 @@
      - FinInstrmGnlAttrbts.NtnlCcy
      - Issr
 5. Store the csv from step 4) in an AWS S3 bucket
+
+[Link to the answer csv file](https://github.com/pratham3012/SteelEye-PythonEngineer-Assignment/blob/73e44aeeb9d896bede388aee3b03225805b8c43a/ans.csv)
